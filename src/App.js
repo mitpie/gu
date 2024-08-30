@@ -206,7 +206,7 @@ function App() {
       ctx.textAlign = 'left'; // 텍스트 정렬 설정
       ctx.textBaseline = 'middle'; // 텍스트 베이스라인 설정
 
-      const logoText = 'DitacSo.';
+      const logoText = 'DiTakSo.';
       const textX = centerX + washerWidth + 40; // 세탁기 문 오른쪽
       const textY = centerY; // 세탁기 문 중앙 높이
 
